@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from app.api.routers import syllabus, manim
 
-app = FastAPI(title="BaseLife Pipeline API")
+app = FastAPI(title="Professor AI")
 
 # routers
 app.include_router(syllabus.router, prefix="/syllabus", tags=["Syllabus"])
