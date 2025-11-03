@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+test_doc/
+syllabus_graph.html
+media
+.early.coverage

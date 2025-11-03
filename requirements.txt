@@ -1,0 +1,31 @@
+# Core backend
+fastapi
+uvicorn
+
+# Database
+neo4j
+
+# Environment variables
+python-dotenv
+
+# LLM + LangChain ecosystem
+openai
+dspy
+langchain-text-splitters
+
+# PDF parsing
+markdown-it-py
+pdfplumber
+
+# Video parsing 
+opencv-python
+
+# Video generation
+manim
+
+# Visualization
+pyvis==0.2.1
+
+# JSON/YAML utils
+pydantic
+jinja2
